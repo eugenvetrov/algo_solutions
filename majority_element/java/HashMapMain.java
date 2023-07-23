@@ -27,7 +27,7 @@ class Solution {
     }
 }
 
-public class Main {
+public class HashMapMain {
     public static void main(String[] args) {
         int[] nums = { 3, 1, 3 };
         Solution solution = new Solution();
